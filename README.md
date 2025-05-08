@@ -41,6 +41,12 @@ SQL Script Files
 2. **Task 2** – Execute SQL queries for data retrieval and reporting.
 
 
+**Technologies Used**
+
+    MySQL (or any relational database system)
+    SQL (Structured Query Language)
+
+
 **Key Insights Summary:**
 
     1. There are distinct gender-based travel patterns for long-distance travel (600 KM+).
