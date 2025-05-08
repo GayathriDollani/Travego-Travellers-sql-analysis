@@ -43,7 +43,7 @@ SQL Script Files
 
 **Technologies Used**
 
-    MySQL (or any relational database system)
+    MySQL 
     SQL (Structured Query Language)
 
 
