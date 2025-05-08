@@ -1,6 +1,6 @@
-Travego Travellers - SQL Project
+**Travego Travellers - SQL Project**
 
-Project Overview
+**Project Overview**
 
 The Travego Travellers project is designed to manage records of bus passengers traveling between two cities. It captures journey details such as bus type, distance, and price, along with passenger information including name, gender, and travel cities. The project includes schema creation, table design, data insertion, and SQL queries to retrieve meaningful insights.
 
