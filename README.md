@@ -40,3 +40,20 @@ SQL Script Files
 1. **Task 1** – Create schema, tables, and insert sample data.
 2. **Task 2** – Execute SQL queries for data retrieval and reporting.
 
+
+**Key Insights Summary:**
+
+    1. There are distinct gender-based travel patterns for long-distance travel (600 KM+).
+
+    2. The minimum ticket price for a Sleeper Bus was identified to help optimize budget planning.
+
+    3. Several passengers’ names start with 'S' – can be useful for demographic-based personalization or segmentation.
+
+    4. Each passenger’s fare is accurately calculated based on their selected bus type and distance.
+
+    5.The database supports specific queries like Pallavi’s fare for particular city routes and types of buses.
+
+    6. The percentage contribution of each passenger's distance travel highlights individual impact on total travel volume.
+
+    7. Unique distances help identify less common travel routes which can be optimized or promoted differently.
+
